@@ -7,4 +7,4 @@ A custom menu controller
 
 效果图如下
 
-
+![img](preview.gif)
